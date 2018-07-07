@@ -9,7 +9,7 @@ EditURL: https://blog.hatena.ne.jp/tukaelu/tukaelu.hatenablog.jp/atom/entry/1025
 
 一昨日、tukaelu `Ver 0.35.8` がリリースされていました。
 
-ちなみに一ヶ月前に`Ver 0.35.7`もリリースされていましたが色々あってノートを書けませんでした。。
+ちなみに一ヶ月前に`Ver 0.35.7`もリリースされていましたが色々あってノートを書けませんでした。
 
 <!-- more -->
 
