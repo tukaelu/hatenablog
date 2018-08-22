@@ -3,7 +3,7 @@ Title: JAWS-UG 初心者支部#13「AWS Night school」に参加してきた
 Category:
 - aws
 - jawsug
-Date: 2018-08-23T00:01:34+09:00
+Date: 2018-08-22T23:59:59+09:00
 URL: https://tukaelu.hatenablog.jp/entry/2018/08/22/jaws-ug-beginner-aws-night-school-1
 EditURL: https://blog.hatena.ne.jp/tukaelu/tukaelu.hatenablog.jp/atom/entry/10257846132613556786
 ---
